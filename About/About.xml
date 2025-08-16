@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>NEO Scavenger Soundtrack</name>
+    <description><![CDATA[NEO Scavenger is a game where you must survive in the wasteland long enough to figure out who you are.
+	
+	Track List: After Michigan, Beyond the Swamp, Coalesce, Desperate Measures, Distant Signals, Dust, Empty Horizon, Hindsight, Making Time, Over the City, Reflections Rising, Ritual, The Vast, Trailing Lights, Unfamiliar Surroundings, Urban Pulse.]]>
+    </description>
+    <author>karbonpanzer</author>
+    <packageId>kp.neoscavenger</packageId>
+    <supportedVersions>
+        <li>1.3</li>
+        <li>1.4</li>
+        <li>1.5</li>		
+    </supportedVersions>
+</ModMetaData>
